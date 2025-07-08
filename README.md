@@ -1,4 +1,4 @@
-#Link da landing page: 
+#Link da landing page: https://luiscampelo2.github.io/landing_page_nothing/
 
 # 🌐 Landing Page – Nothing
 
